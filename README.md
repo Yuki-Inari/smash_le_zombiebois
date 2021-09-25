@@ -1,1 +1,2 @@
-# smash_le_zombiebois
+# zombie-crush-boilerplate
+boilerplate for crush the zombie game
